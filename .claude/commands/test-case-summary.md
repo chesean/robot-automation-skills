@@ -15,6 +15,13 @@ Comprehensive test result analysis:
 
 **Saves you from manual result interpretation!**
 
+## CRITICAL: No AI Footprint (MANDATORY)
+
+- NEVER include "Claude", "AI", "generated", "automated by AI", "LLM", or any similar attribution
+- NEVER include "Co-Authored-By", "Generated with", or any tool attribution
+- The summary must appear as a standard engineering test report written by the test team
+- Professional tone only — no language that hints the content was produced by an AI tool
+
 ## CRITICAL: Data Verification Rules (MANDATORY)
 
 **RULE 1: ONLY Report What You Can Actually Verify**
@@ -353,7 +360,7 @@ This test case is [passed/failed].
 
 After running `/cxtm-ready`, you already know:
 - Device IPs and credentials (from lab.yaml)
-- CUSTOMER_NAME standards (from CXTA_BEST_PRACTICES.md)
+- Goldman Sachs standards (from CXTA_BEST_PRACTICES.md)
 - Network design context (from HBN_Network_Config_Template.md)
 - Test case summary format (from TEST_CASE_SUMMARY_TEMPLATE.md)
 
