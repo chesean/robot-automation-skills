@@ -24,7 +24,7 @@ Lightweight alternative to `/cxtm-ready` when you only need coding standards, no
 ## When To Use `/cxtm-ready` Instead
 
 - Start of a full CXTM work session (need keywords, variables, CXTA library)
-- When you need Customer_Keywords.robot reference
+- When you need Goldman_Keywords.robot reference
 - When you need CXTA keyword implementations
 - When you need device IPs and lab configuration
 
@@ -84,7 +84,7 @@ These are the most frequently hit issues - all documented in CXTA_BEST_PRACTICES
 | Report titles | `add report title "- Bullet point"` | `pass and add comment to report  Bullet point` |
 | Unicode | `pass and add comment to report  PASS ✓` | `pass and add comment to report  PASS` |
 | Colons | `pass and add comment to report  Platform: N9K` | `pass and add comment to report  Platform - N9K` |
-| Paths | `Resource  ../Common/Customer_Keywords.robot` | `Resource  /home/cisco/cxta/GS/.../Customer_Keywords.robot` |
+| Paths | `Resource  ../Common/Goldman_Keywords.robot` | `Resource  /home/cisco/cxta/GS/.../Goldman_Keywords.robot` |
 
 ---
 
